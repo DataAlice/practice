@@ -18,6 +18,6 @@ class Calculator():
 if __name__ == '__main__':	
     calculator = Calculator() 
     print(calculator.add(1,3))
- #   print(calculator.devide(10,0)) 
-  #  print(calculator.devide(10,2)) 
+    print(calculator.devide(10,0)) 
+    print(calculator.devide(10,2)) 
 
