@@ -6,8 +6,8 @@ class Calculator():
     def substract(self, num1, num2):
         return num1-num2
 
-#    def multiply(self,num1,num2):
-#	return num1*num2
+    def multiply(self,num1,num2):
+	    return num1*num2
 
  #   def devide(self,num1,num2):
 #	if num2 == 0:
