@@ -9,11 +9,11 @@ class Calculator():
     def multiply(self,num1,num2):
 	    return num1*num2
 
- #   def devide(self,num1,num2):
-#	if num2 == 0:
-#	    return 0
-#	else:
-#	    return num1/num2
+   def devide(self,num1,num2):
+	    if num2 == 0:
+	        return 0
+	    else:
+	        return num1/num2
  
 if __name__ == '__main__':	
     calculator = Calculator() 
